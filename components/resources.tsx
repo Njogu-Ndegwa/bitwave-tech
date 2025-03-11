@@ -384,7 +384,7 @@ export default function Contact() {
                     <path d="M8 0a8 8 0 1 0 3.2 15.335l.916-.4-.8-1.833-.916.4A6 6 0 1 1 14 8v1a1 1 0 1 1-2 0V8a4.033 4.033 0 1 0-1.286 2.92A2.987 2.987 0 0 0 16 9V8a8.009 8.009 0 0 0-8-8Zm0 10a2 2 0 1 1 0-4 2 2 0 0 1 0 4Z" />
                   </svg>
                   <div className="text-sm text-gray-200">
-                    contact@ufundi.co.ke
+                    snrnjogundegwa@gmail.com
                   </div>
                 </div>
               </div>
@@ -396,7 +396,8 @@ export default function Contact() {
                     Address
                   </div>
                   <p className="text-sm text-gray-500">
-                    Prefer to visit? We're located in Westlands, Nairobi.
+                    Prefer to visit? We're located in Regen, Kiambu.
+                    Supalai Apartments House no. A1001
                   </p>
                 </div>
                 <div className="flex items-center space-x-2.5">
@@ -409,7 +410,8 @@ export default function Contact() {
                     <path d="M5.591 15.069c.404.358.684.606.709.631.4.4 1 .4 1.4.1.05-.05 1.075-.975 2.1-1.9 1.025-.925 2.05-1.85 2.1-1.9 1.4-1.3 2.1-3.1 2.1-5 0-3.9-3.1-7-7-7S0 3.1 0 7c0 1.9.7 3.7 2.1 4.9 0 .075 2.293 2.107 3.491 3.169ZM7 13.7l-3.4-3C2.6 9.7 2 8.4 2 7c0-2.8 2.2-4.9 5-4.9s5 2.2 5 5c0 1.4-.6 2.6-1.6 3.6l-3.4 3ZM9 7a2 2 0 1 1-4 0 2 2 0 0 1 4 0Z" />
                   </svg>
                   <div className="text-sm text-gray-200">
-                    Westlands, Rainbow Towers, Nairobi
+                  Regen, Kiambu,
+                  Supalai House Room no. A1001
                   </div>
                 </div>
               </div>

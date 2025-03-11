@@ -8,7 +8,7 @@ export default function Features() {
         <div className="py-12 md:py-20">
           {/* Section header */}
           <div className="text-center pb-12 md:pb-20">
-            <h2 className="h2 font-uncut-sans" data-aos="zoom-out">Take the First Step Toward Mastery Today!</h2>
+            <h2 className="h2 font-uncut-sans" data-aos="zoom-out">Start Your Tech Transformation Today!</h2>
           </div>
           <div className="pb-16" data-aos="zoom-out">
             <Image src={FeaturesImage} alt="Features" />
@@ -36,7 +36,7 @@ export default function Features() {
               </svg>
               </div>
               <h4 className="h4 text-gray-200 text-center mb-2">Web Development</h4>
-              <p className="text-lg text-gray-400 text-center">Learn to build dynamic websites using HTML, CSS, JavaScript, and frameworks like React and Node.js. Gain skills in both front-end and back-end development. </p>
+              <p className="text-lg text-gray-400 text-center">We craft responsive, SEO-optimized websites and e-commerce solutions with expertise in HTML, CSS, JavaScript, React, and Node.js, tailored to enhance your digital presence. </p>
             </div>
             {/* 2nd item */}
             <div className="flex flex-col items-center" data-aos="zoom-out" data-aos-delay="200">
@@ -59,7 +59,7 @@ export default function Features() {
               </svg>
               </div>
               <h4 className="h4 text-gray-200 text-center mb-2">Data Science</h4>
-              <p className="text-lg text-gray-400 text-center">Explore data analysis and machine learning with Python. Learn data visualization, statistical analysis, and work on real-world projects to turn data into insights.</p>
+              <p className="text-lg text-gray-400 text-center">We transform data into actionable insights using Python, advanced machine learning, data visualization, and statistical analysis for real-world business intelligence.</p>
             </div>
             {/* 3rd item */}
             <div className="flex flex-col items-center" data-aos="zoom-out" data-aos-delay="400">
@@ -81,8 +81,8 @@ export default function Features() {
                   </g>
               </svg>
               </div>
-              <h4 className="h4 text-gray-200 text-center mb-2">Mobile App Development</h4>
-              <p className="text-lg text-gray-400 text-center"> Create mobile apps for Android and iOS using Java, Swift, Flutter, and React Native. Design, develop, and deploy apps with seamless user experiences.</p>
+              <h4 className="h4 text-gray-200 text-center mb-2">AI Development</h4>
+              <p className="text-lg text-gray-400 text-center"> We design and deploy cutting-edge AI apps using advanced machine learning and predictive analytics to drive intelligent, seamless user experiences.</p>
             </div>
           </div>
         </div>

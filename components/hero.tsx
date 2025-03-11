@@ -33,7 +33,7 @@ export default function Hero() {
               </div>
             </div> */}
             <h1 className="h1 font-uncut-sans mb-6" data-aos="zoom-out" data-aos-delay="100">
-              Master the Skills of Tomorrow,<em className="font-italic"> Today </em>
+            Harness Tomorrow's Tech,<em className="font-italic"> Today </em>
             </h1>
             <p className="text-xl text-gray-400 mb-10" data-aos="zoom-out" data-aos-delay="200">
 
@@ -74,7 +74,7 @@ export default function Hero() {
                 {/* <a className="btn text-gray-300 bg-gradient-to-t from-gray-800 to-gray-700 hover:to-gray-800 w-full shadow-lg" href="#0">
                   Explore Courses
                 </a> */}
-                <ScrollLink
+                {/* <ScrollLink
                   to="courses" // This is the ID of the Courses section
                   smooth={true}
                   duration={500}
@@ -82,7 +82,7 @@ export default function Hero() {
                   className="btn text-gray-300 bg-gradient-to-t from-gray-800 to-gray-700 hover:to-gray-800 w-full shadow-lg cursor-pointer"
                 >
                   Explore Courses
-                </ScrollLink>
+                </ScrollLink> */}
               </div>
             </div>
           </div>
